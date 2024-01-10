@@ -1,6 +1,6 @@
-![](./images/design.png)
-
 # Profile Card - Solution
+
+![](./images/design.png)
 
 Esta es una solución al primer desafío #100DaysOfProjects. La mejor manera de escribir un buen código es programando todos los días🔥.
 
