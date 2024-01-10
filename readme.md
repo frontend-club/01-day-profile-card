@@ -118,7 +118,7 @@ Investigaré más sobre especificidad, herencia, cascada en CSS, y más sobre la
 
 Hemos recopilado una lista de recursos e información valiosa que puede ayudarte a comprender mejor la realización de este hermoso proyecto:
 
-- [FontAwesome](https://fontawesome.com/icons) - Libreríia de íconos.
+- [FontAwesome](https://fontawesome.com/icons) - Librería de íconos.
 - [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - Página web con ejemplos e información sobre la metodología BEM.
 - [How to Develop and Test a Mobile-First Design in 2021](https://css-tricks.com/how-to-develop-and-test-a-mobile-first-design-in-2021/) - El concepto _mobile-first_
 
